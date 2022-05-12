@@ -24,5 +24,3 @@ The program should read the words from https://gist.github.com/bobbae/4ca309a185
 There are many solutions to this problem in github and elsewhere. We expect a new answer constructed by you from scratch.
 
 Speed matters. Your solution's algorithm and execution speed in finding the answer matters. For example, if your program takes more than one minute on a modern consumer grade laptop to produce the answers, your code needs to be revised.
-
-Provide the answer in your README file.
