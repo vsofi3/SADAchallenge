@@ -111,7 +111,7 @@ def processList(wordList):
     return wordList
 
 # takes from words.txt which contains all possible words we can use
-def testProgram(usingFile='words.txt'):
+def testProgram(usingFile='words copy.txt'):
     trie, words = processFile(usingFile)
     # using 2d array
     wordList = processList(createList(trie, words))
